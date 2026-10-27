@@ -1,4 +1,4 @@
-ublic class NumerosImpares {
+public class NumerosImpares {
 
     public static void main(String[] args) {
         System.out.println("Números ímpares entre 1 e 50:");
